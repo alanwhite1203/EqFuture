@@ -1,0 +1,2 @@
+# EqFuture
+An Equity Forward contract is an agreement between two counterparties to buy a specific number of equity stocks, stock index or basket at a given price (called strike price) at a given date. For any forward contract no cash changes hands until the maturity of the contract. Equity forward contracts are cash settled in most cases. At maturity, the two counterparties exchange a cashflow equivalent to the difference between the stock closing price and the strike price. Equity forward contract is traded over the counter (OTC) instead of exchange market. 
