@@ -51,7 +51,10 @@ Underlying Symbol	.SPX
 Position	1000
 
 
+References:
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/lib/EqAsian.html
+
+https://bitbucket.org/cmrm11/eqfuture/downloads/EqFuture-5.pdf
+
 
